@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d87aac6d2d6c42f8ba4a1e6740b8b46b, type: 3}
+  m_Name: Level_001
+  m_EditorClassIdentifier: 
+  loaderHeader: Level 001
+  sceneLink:
+    m_AssetGUID: b158cfe5b7ff3cf41bb03777a2b7e151
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  enemyToCreateCount: 4
+  enemiesSettings: {fileID: 11400000, guid: 1a97d454abb74f146be246e5f12ddcc4, type: 2}
+  bombsSettings: {fileID: 11400000, guid: 83581dca7bb66834b89301c67d22fda3, type: 2}

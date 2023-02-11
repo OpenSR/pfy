@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 308c7a5ff9474b39831a2708d5f89f80, type: 3}
+  m_Name: BombsSettings
+  m_EditorClassIdentifier: 
+  bombsAtlas:
+    m_AssetGUID: 9921692285ccdde46bd2ea13eb3d0cef
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 1
+  bombSettingsList:
+  - {fileID: 11400000, guid: fb17106dd49bf6342a6efbe85bac4bbd, type: 2}
+  - {fileID: 11400000, guid: 73def8822cdf63d42bee128113b7f65c, type: 2}

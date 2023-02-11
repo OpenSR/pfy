@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f241773f1d34ec2baa63c674e2f2610, type: 3}
+  m_Name: ClusterBombAttackUnitSettings
+  m_EditorClassIdentifier: 
+  prefabReference:
+    m_AssetGUID: 3123eba4fc119ec40b79bddfbbe32a70
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  attackUnitDamageRadius: 0.5
+  attackUnitTargetDeltaPosition:
+  - {fileID: 11400000, guid: 676956212a65e5e4ea4ac8a6eb11fcab, type: 2}
+  - {fileID: 11400000, guid: f5caa20e455942e4eafc02821a59db83, type: 2}
+  - {fileID: 11400000, guid: b98337a7e88227e4ba34915d15b7351c, type: 2}
+  - {fileID: 11400000, guid: c1d3a973134a2eb469764654709b579d, type: 2}
+  - {fileID: 11400000, guid: a29258fc23d84f644bc1fe777497ee0d, type: 2}
