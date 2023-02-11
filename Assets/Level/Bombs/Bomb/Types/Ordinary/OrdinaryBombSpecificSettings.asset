@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: OrdinaryBombSpecificSettings
   m_EditorClassIdentifier: 
   fallTimeMsec: 500
-  damageRadius: 1
+  damageRadius: 2
